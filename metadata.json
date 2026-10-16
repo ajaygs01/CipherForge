@@ -1,0 +1,6 @@
+{
+  "name": "SecureCipher",
+  "description": "Enterprise-grade cryptographic workbench and telemetry platform featuring AES-256-GCM, RSA-OAEP, Diffie-Hellman, SHA-256, MD5, and DES-CBC with zero-knowledge audit history and publication-grade PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
